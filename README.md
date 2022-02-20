@@ -4,4 +4,5 @@
 - 💞️ I am a self-taught programmer.
 Look_at_ToDo_list.
 https://dmitri1993p.github.io/ToDoList/
+Slider: https://dmitri1993p.github.io/Slider/
 
